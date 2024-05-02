@@ -1,6 +1,6 @@
 # Diverse and complementary self-assessed expertise in an interdisciplinary and international classroom
 
-#### Materials and Methods
+### Materials and Methods
 
 ***Curriculum and classroom environment***
 
@@ -22,7 +22,7 @@ Using Linear Discriminant Analysis (LDA) we created two different classification
 
 Data was imported using the pandas module (McKinney, 2010) as a dataframe. Masking was used to isolate specific factor levels as needed. Data scaling, LDA modeling, and cross-validation of models were performed using the scikit-learn (Pedregosa et al., 2011) functions StandardScaler, LinearDiscriminantAnalysis, and RepeatedStratifiedKFold functions, respectively. Significant differences between Linear Discriminant scores were determined using a Kruskal-Wallis test with the stats.kruskal function from the scipy (Virtanen et al., 2020) stats module. All analyses and visualizations were performed in Python using numpy (Harris et al., 2020), matplotlib (Hunter, 2007), and seaborn (Waskom, 2021) modules.
 
-#### References
+### References
 
 Bryson, A.E., Wilson Brown, M., Mullins, J., Dong, W., Bahmani, K., Bornowski, N., Chiu, C., Engelgau, P., Gettings, B., Gomezcano, F. Gregory, L.M., et al. 2020. Composite modeling of leaf shape along shoots discriminates Vitis species better than individual leaves. Applications in plant sciences, 8(12), p.e11404.
 
@@ -50,7 +50,7 @@ Waskom, M.L., 2021. Seaborn: statistical data visualization. Journal of Open Sou
 
 Williams, M. 2022. New Teaching Tool, "Plants and Python: a series of lessons in coding, plant biology, computation, and bioinformatics". The Plant Cell: News. Accessed 2 May 2024 https://plantae.org/new-teaching-tool-plants-and-python/
 
-#### Figure Legends
+### Figure Legends
 
 **Figure 1: Biology vs. computational student LDA. A)** An LDA model was constructed for biology vs. computational student identity as a function of MSU student survey responses in 2020. Linear discriminant scores for initial, mid, and final semester survey responses were calculated from the model for biology and computational student groups in 2020 and MSU and UNAM student groups 2021 to 2023. **B)** Scalings for linear discriminant scores. More negative scaling values indicate a survey question that contributes towards negative linear discriminant scores, and likewise more positive scaling values indicate survey questions that contribute to positive linear discrimninant scores.
 
