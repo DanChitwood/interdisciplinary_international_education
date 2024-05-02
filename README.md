@@ -54,7 +54,11 @@ Williams, M. 2022. New Teaching Tool, "Plants and Python: a series of lessons in
 
 **Figure 1: Biology vs. computational student LDA. A)** An LDA model was constructed for biology vs. computational student identity as a function of MSU student survey responses in 2020. Linear discriminant scores for initial, mid, and final semester survey responses were calculated from the model for biology and computational student groups in 2020 and MSU and UNAM student groups 2021 to 2023. **B)** Scalings for linear discriminant scores. More negative scaling values indicate a survey question that contributes towards negative linear discriminant scores, and likewise more positive scaling values indicate survey questions that contribute to positive linear discrimninant scores.
 
+![alt_text](https://github.com/DanChitwood/interdisciplinary_international_education/blob/main/figures/Figure1.jpg)
+
 **Figure 2: MSU vs. UNAM student LDA. A)** An LDA model was constructed for MSU vs. UNAM student identity as a function of student survey responses from 2021 to 2023. Linear discriminant scores for initial, mid, and final semester survey responses were calculated from the model for MSU and UNAM student groups 2021 to 2023. **B)** Scalings for linear discriminant scores. More negative scaling values indicate a survey question that contributes towards negative linear discriminant scores, and likewsie more positive scaling values indicate survey questions that contribute to positive discriminant scores.
+
+![alt_text](https://github.com/DanChitwood/interdisciplinary_international_education/blob/main/figures/Figure2.jpg)
 
 **Table 1: p values for linear discriminant value comparisons for the biology vs. computational student model.**
 
