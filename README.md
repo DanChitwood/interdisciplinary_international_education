@@ -1,4 +1,4 @@
-# Diverse and complementary self-assessed expertise in an interdisciplinary and international classroom
+# Interdisciplinarity through internationality: results from a US-Mexico graduate course bridging computational and plant science
 
 ### Materials and Methods
 
